@@ -1,10 +1,10 @@
 body{
     background-color: #FAF0E4;;
     text-align: center;
-    padding-top: 100px;
-    margin: 0px 0px 0px 0px;
-    border-bottom: 0px;
-    padding-bottom: 0px;
+    padding-top: 7%;
+    margin: 0% 0% 0% 0%;
+    border-bottom: 0%;
+    padding-bottom: 0%;
     font-family: 'Chakra Petch', sans-serif;
     font-weight: bolder
 }
@@ -32,14 +32,14 @@ p{
 hr{
     border: dotted 6px;
     color: #191917;
-    width: 4%;
+    width: 6%;
     border-bottom: none;
-    margin: 50px auto 50px auto;
+    margin: 4% auto 4% auto;
     
 }
 
 .profile{
-    padding-bottom: 50px;
+    padding-bottom: 5%;
 }
 .curr{
     float: left;
@@ -73,32 +73,33 @@ hr{
 }
 
 .prof-pic{
-    margin-top: 30px;
-    width: 200px;
-    height: 200px;
+    margin-top: 3%;
+    width: 17%;
+    height: 17%;
 }
 
 .coding-img{
     float: left;
-    width: 250px;
-    height: 280px;
-    padding-right: 30px;
+    width: 50%;
+    height: 100%;
+    padding-right: 5%;
 }
 .football-img{
     float: left;
-    width: 200px;
-    height: 260px;
-    padding-right: 50px;
-    padding-left: 0;
+    width: 49%;
+    height: 100%;
+    padding-right: 5%;
+    padding-left: 0%;
+    padding-top: 5%;
 }
 .code-skill{
-    margin-top: 100px auto 100px auto;
+    margin-top: 10% auto 10% auto;
     text-align: left;
     line-height: 150%;
     float: right;
 }
 .football-skill{
-    margin-top: 100px auto 100px auto;
+    margin-top: 10% auto 10% auto;
     text-align: left;
     line-height: 1.5;
     float: right;
@@ -114,6 +115,7 @@ hr{
     height: 50%;
     float: left;
     mix-blend-mode:multiply;
+    padding-top: 12%;
 }
 .btn {
     background: #FAF0E4;
@@ -122,14 +124,14 @@ hr{
     background-image: -ms-linear-gradient(top, #FAF0E4, #FAF0E4);
     background-image: -o-linear-gradient(top, #FAF0E4, #FAF0E4);
     background-image: linear-gradient(to bottom, #FAF0E4, #FAF0E4);
-    -webkit-border-radius: 60;
-    -moz-border-radius: 60;
+    -webkit-border-radius: 6%;
+    -moz-border-radius: 6%;
     border-radius: 60px;
     font-family: 'Orbit', sans-serif;
     color: #001C30;
-    font-size: 20px;
-    padding: 5px 20px 5px 20px;
-    margin-top: 1000px;
+    font-size: 120%;
+    padding: 0.5% 2% 0.5% 2%;
+    margin-top: 5%;
     text-decoration: none;
   }
   
