@@ -12,21 +12,25 @@ body{
 h1{
     color: #001C30;
     font-family: 'Orbit', sans-serif;
+    font-size: 200%;
 }
 
 h2{
     color: #001C30;
     font-family: 'Chakra Petch', sans-serif;
+    font-size: 150%;
 }
 h3{
     color: #001C30;
     font-family: 'Chakra Petch', sans-serif;
+    font-size: 120%;
 
 }
 
 p{
     font-family: 'Chakra Petch', sans-serif;
-    font-weight: bolder
+    font-weight: bolder;
+    font-size: 100%;
 }
 
 hr{
@@ -95,13 +99,13 @@ hr{
 .code-skill{
     margin-top: 10% auto 10% auto;
     text-align: left;
-    line-height: 150%;
+    
     float: right;
 }
 .football-skill{
     margin-top: 10% auto 10% auto;
     text-align: left;
-    line-height: 150%;
+    
     float: right;
 
 }
